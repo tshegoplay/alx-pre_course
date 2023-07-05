@@ -1,3 +1,1 @@
-My first commit
-
-# alx-pre_course
+Git is fun to lern
