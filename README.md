@@ -1,1 +1,2 @@
-Git is fun to lern
+Git is fun to learn all the time
+
